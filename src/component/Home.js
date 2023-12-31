@@ -104,7 +104,7 @@ color:'rgba(153, 153, 153, 1)'
 {selectedFile?<div>
 <div style={{
 fontFamily: 'Poppins',
-fontSize: '14px',
+fontSize: '15px',
 fontWeight: '500',
 color:'rgba(248, 248, 248, 1)',
 marginTop:'30px'
